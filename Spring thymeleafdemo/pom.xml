@@ -8,7 +8,7 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luv2code.springboot</groupId>
+	<groupId>com.vanillanetworks.springboot</groupId>
 	<artifactId>39-thymeleafdemo-employees-search</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>thymeleafdemo</name>
